@@ -1,0 +1,5 @@
+INFO Server started
+INFO User login
+WARNING Slow request
+ERROR Database timeout
+INFO Server stopped
