@@ -14,3 +14,5 @@ Diff practice
 feature branch practice
 
 Main update
+
+Weather endpoint added
