@@ -10,6 +10,3 @@ Temporary feature
 Diff practice
 
 Feature branch practice
-
-
-Feature branch practiceeee
