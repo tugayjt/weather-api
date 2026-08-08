@@ -7,3 +7,4 @@ Stash practice
 Fetch practice
 
 Temporary feature
+Diff practice
