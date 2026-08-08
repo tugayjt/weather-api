@@ -5,5 +5,4 @@ Pull practice
 
 Stash practice
 Fetch practice
-Revert practice
 
